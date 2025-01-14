@@ -1,0 +1,5 @@
+text=input("matn kiriting:")
+new_text=text.split()
+sozlar=len(new_text)
+print(new_text)
+print(f"sozlar soni={sozlar} ")
